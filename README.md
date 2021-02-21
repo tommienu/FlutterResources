@@ -165,6 +165,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 
 # Reference Apps<a name="referenceApps"></a>
 - [It's All Widgets](https://itsallwidgets.com/) - An open list of apps built on flutter.
+- [FlutterHQ.com: App Templates](https://flutterhq.com/category/flutter-app-templates) - A curated list of open source flutter apps
 
 # Useful Blogs/Websites<a name="usefulBlogs/Websites"></a>
 - [Flutter Dev's](http://flutterdevs.com/blog/) 
@@ -172,6 +173,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Dev Flutter](https://dev.to/t/flutter?utm_source=devglan) 
 - [Geeky Ant's Flutter](https://blog.geekyants.com/flutter/home)
 - [Flutter Gems](https://fluttergems.dev/)
+- [FlutterHQ.com](https://flutterhq.com/)
 
 # Contributing
 
